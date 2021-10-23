@@ -1,0 +1,173 @@
+/* line 4, app/assets/stylesheets/about.css.scss */
+.container {
+  width: 1290px;
+  margin: 0 auto;
+}
+
+/* line 7, app/assets/stylesheets/about.css.scss */
+.container h2 {
+  font-family: 'Fugue';
+  font-size: 70px;
+  margin-bottom: 140px;
+}
+
+/* line 12, app/assets/stylesheets/about.css.scss */
+.container h3 {
+  font-family: 'Fugue';
+  font-size: 48px;
+  margin-bottom: 125px;
+}
+
+/* line 17, app/assets/stylesheets/about.css.scss */
+.container p {
+  font-family: 'Circe';
+  font-size: 36px;
+}
+
+/* line 23, app/assets/stylesheets/about.css.scss */
+.concept {
+  height: 1020px;
+  background-image: url("squares.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+}
+
+/* line 28, app/assets/stylesheets/about.css.scss */
+.concept h2 {
+  padding-top: 170px;
+}
+
+/* line 31, app/assets/stylesheets/about.css.scss */
+.concept span {
+  color: #8859FF;
+}
+
+/* line 36, app/assets/stylesheets/about.css.scss */
+.search {
+  position: relative;
+}
+
+/* line 38, app/assets/stylesheets/about.css.scss */
+.search .hypo {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+/* line 42, app/assets/stylesheets/about.css.scss */
+.search .hypo div {
+  flex-basis: 45%;
+  height: 670px;
+  display: flex;
+  flex-direction: column;
+}
+
+/* line 47, app/assets/stylesheets/about.css.scss */
+.search .hypo div img {
+  margin: 0 auto;
+}
+
+/* line 52, app/assets/stylesheets/about.css.scss */
+.search h3 {
+  margin-top: 50px;
+}
+
+/* line 57, app/assets/stylesheets/about.css.scss */
+.problems {
+  position: relative;
+}
+
+/* line 59, app/assets/stylesheets/about.css.scss */
+.problems div {
+  display: flex;
+  height: 250px;
+}
+
+/* line 62, app/assets/stylesheets/about.css.scss */
+.problems div p {
+  flex-basis: 60%;
+  margin-top: 0;
+}
+
+/* line 66, app/assets/stylesheets/about.css.scss */
+.problems div img {
+  width: 145px;
+  height: 145px;
+}
+
+/* line 73, app/assets/stylesheets/about.css.scss */
+.mechamics {
+  height: 883px;
+  background-image: url("mecha.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/* line 81, app/assets/stylesheets/about.css.scss */
+.ca {
+  position: relative;
+}
+
+/* line 83, app/assets/stylesheets/about.css.scss */
+.ca p {
+  display: inline;
+  margin-left: 10px;
+}
+
+/* line 87, app/assets/stylesheets/about.css.scss */
+.ca .guys {
+  margin-top: 20px;
+  display: flex;
+}
+
+/* line 90, app/assets/stylesheets/about.css.scss */
+.ca .guys .small {
+  font-size: 24px;
+}
+
+/* line 93, app/assets/stylesheets/about.css.scss */
+.ca .guys div {
+  display: flex;
+  flex-basis: 50%;
+  flex-direction: column;
+}
+
+/* line 97, app/assets/stylesheets/about.css.scss */
+.ca .guys div img {
+  width: 50%;
+}
+
+/* line 100, app/assets/stylesheets/about.css.scss */
+.ca .guys div p {
+  margin-bottom: 0;
+}
+
+/* line 108, app/assets/stylesheets/about.css.scss */
+.students h2 {
+  margin-top: 200px;
+}
+
+/* line 114, app/assets/stylesheets/about.css.scss */
+.guys {
+  margin-top: 20px;
+  display: flex;
+}
+
+/* line 117, app/assets/stylesheets/about.css.scss */
+.guys div {
+  display: flex;
+  flex-basis: 50%;
+  flex-direction: column;
+}
+
+/* line 121, app/assets/stylesheets/about.css.scss */
+.guys div img {
+  width: 50%;
+}
+
+/* line 124, app/assets/stylesheets/about.css.scss */
+.guys div p {
+  margin-bottom: 0;
+}
+
+/*# sourceMappingURL=about.css-7c327991ab0a59d0146e464c05da5a62fbf89ff5c5fc1cff2c29b13ae4034e00.map */
